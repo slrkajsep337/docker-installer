@@ -1,6 +1,6 @@
 # docker-installer
 
-- t2.micro(프리티어)에서는 실행 불가 
+- t2.micro(프리티어)에서는 사용 불가 
 - 설치하기
 ```
 서버 접속
